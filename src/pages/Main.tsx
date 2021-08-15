@@ -192,9 +192,9 @@ const Main: React.FC = () => {
 
 const styles = StyleSheet.create({
   container: {
-      flexDirection: 'row',
-      justifyContent: 'space-between',
-      backgroundColor: '#ffffff'
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    backgroundColor: '#ffffff'
   },
 
   qr: {
@@ -279,8 +279,6 @@ const styles = StyleSheet.create({
     width: 90,
     height: 60,
     borderRadius: 10,
-    //paddingLeft: 10,
-    //paddingRight: 20,
     justifyContent: 'space-between',
   },
 

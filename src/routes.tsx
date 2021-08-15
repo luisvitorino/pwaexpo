@@ -31,7 +31,7 @@ export default function Routes() {
            tabBarIcon: ({ color }) => <Feather name="inbox" size={20} color={color}/>
           }} 
          name="Pedidos" 
-         component={Main} 
+         component={Rest} 
         />
         <Tab.Screen 
          options={{ 
