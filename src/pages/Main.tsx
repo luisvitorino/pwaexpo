@@ -12,7 +12,7 @@ import { MaterialCommunityIcons } from '@expo/vector-icons';
 
 const {width} = Dimensions.get('window');
 
-//teste
+//teste ssss
 
 const Main: React.FC = () => {
 
